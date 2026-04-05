@@ -1,0 +1,78 @@
+project:
+  slug: harmonized-gospel
+  title: Harmonized Gospel
+  subtitle: A Single Narrative from Matthew, Mark, Luke, and John
+  short_title: Harmonized Gospel
+  language: en-US
+  trim_size: "6 x 9 in"
+  genre: Religious / Bible harmony / devotional study
+
+contributors:
+  author: "[AUTHOR NAME]"
+  editor: "[EDITOR NAME]"
+  publisher_imprint: "[IMPRINT NAME]"
+
+rights:
+  copyright_holder: "[COPYRIGHT HOLDER]"
+  copyright_year: "[YEAR]"
+  statement: >
+    This work is a harmonized Gospel narrative prepared as a secondary study aid.
+    It is not Scripture, not a Bible translation, and not intended to replace the Bible.
+
+identifiers:
+  print_isbn: "[PRINT ISBN]"
+  epub_isbn: "[EPUB ISBN]"
+  kindle_asin: "[KINDLE ASIN]"
+
+edition_defaults:
+  review_references_markup: review-ref
+  include_front_matter: true
+  include_back_matter: true
+
+editions:
+  review_pdf:
+    label: Review PDF
+    manifest: manifests/review.txt
+    stylesheets:
+      - styles/base.css
+      - styles/print.css
+      - styles/review.css
+    include_review_references: true
+    intended_use: editorial review and source verification
+  reader_pdf:
+    label: Reader PDF
+    manifest: manifests/reader.txt
+    stylesheets:
+      - styles/base.css
+      - styles/print.css
+      - styles/reader.css
+    include_review_references: false
+    intended_use: clean reading edition
+  epub:
+    label: EPUB
+    manifest: manifests/reader.txt
+    stylesheets:
+      - styles/base.css
+      - styles/epub.css
+      - styles/reader.css
+    include_review_references: false
+    reflowable: true
+  pod_print:
+    label: Print Interior PDF
+    manifest: manifests/reader.txt
+    stylesheets:
+      - styles/base.css
+      - styles/print.css
+      - styles/reader.css
+    include_review_references: false
+    trim_size: "6 x 9 in"
+    intended_use: POD interior PDF
+
+paths:
+  front_matter: front_matter
+  sections: sections
+  back_matter: back_matter
+  styles: styles
+  manifests: manifests
+  exports: exports
+  cover_assets: assets/cover

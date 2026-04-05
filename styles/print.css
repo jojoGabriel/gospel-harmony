@@ -1,0 +1,21 @@
+@page {
+  size: 6in 9in;
+  margin: 0.8in 0.75in 0.9in 0.75in;
+}
+
+body {
+  font-size: 11pt;
+}
+
+h1 {
+  font-size: 22pt;
+}
+
+h2 {
+  font-size: 16pt;
+}
+
+p {
+  widows: 2;
+  orphans: 2;
+}
