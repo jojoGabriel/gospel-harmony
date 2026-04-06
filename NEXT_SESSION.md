@@ -50,6 +50,9 @@ In practice, this means the text should sound like a close retelling of the Gosp
 - `references.md` was updated for all sections, including chronology notes, merge decisions, and open questions.
 - The manuscript now has no placeholder section files left.
 - The book title and subtitle were chosen and set in source metadata and front matter as `One Lord, One Story: A Gospel Harmony`.
+- A reference-coverage audit was completed, and the section-level mapping in `references.md` was corrected where the manuscript already contained material that had been underreported.
+- Section 01 was expanded to include Luke `1:1-4`, and section 04 was expanded to include the remaining easy-fit teaching and temple-conflict material.
+- A genealogy appendix was added in `back_matter/03_genealogies.md` so Matthew `1:1-17` and Luke `3:24-38` can be compared side by side without forcing them into the running narrative.
 
 ## Main Open Questions
 
@@ -61,13 +64,52 @@ These are the main issues still worth reviewing in a later pass:
 4. Whether some dense discourse or late-section paragraphs should be broken into shorter units for readability in print while preserving the same content.
 5. Whether the final ending should close with Luke's ascension movement, John's purpose statement, or another combination.
 
+These are no longer open questions:
+
+- Matthew `1:1-17` and Luke `3:24-38` remain outside the running narrative and are now presented in the genealogy appendix instead.
+- John `7:53-8:11` remains intentionally excluded from the main harmony on text-critical grounds.
+- Mark `16:12-20` remains outside the main target coverage unless the project later chooses to rely more directly on the longer ending of Mark.
+
+## Coverage Cleanup And Insertion Plan
+
+The reference-coverage audit surfaced two kinds of follow-up:
+
+- some passages were already present in paragraph-level references but underreported in `references.md`
+- other passages appear to be genuinely unincorporated and should be drafted into the existing sections without major restructuring
+
+Section-level mapping corrections already identified:
+
+- Section 04 should reflect Matthew `18:1-19:30`, not only `18:1-35`, because the marriage and rich-ruler material is already present in the manuscript.
+- Section 04 should reflect Luke `9:46-50`, `13:18-21`, and `21:1-4`, because those materials are already present in the manuscript.
+- Section 05 should reflect Luke `21:37-38`, because that closing temple rhythm is already present in the manuscript.
+
+Those mapping corrections have now been applied in `references.md`.
+
+Remaining passages that appear suitable for direct incorporation into current sections:
+
+Those easy-fit insertions have now been completed in sections 01 and 04.
+
+Passages that remain intentional or probably best kept outside the running narrative:
+
+- Matthew `1:1-17` and Luke `3:24-38`, because genealogy material has already been earmarked for appendix or prefatory treatment rather than the continuous narrative.
+- John `7:53-8:11`, because the project notes already treat it as an intentional text-critical omission from the main harmony.
+- Mark `16:12-20`, because the longer ending remains disputed and the notes already lean away from relying on it.
+
+After correcting the mapping, the true remaining coverage gaps are:
+
+- Matthew: `1:1-17`
+- Mark: `16:12-20`
+- Luke: `3:24-38`
+- John: `7:53-8:11`
+
 ## Recommended Next Steps
 
-1. Read sections 0 through 7 straight through as one book.
+1. Read sections 0 through 7 straight through as one book after the new insertions to check flow and tone.
 2. Mark any places that still sound too summary-like, too modern, or too close to familiar translation wording.
-3. Review the open questions in `references.md` and decide which chronology and ending choices you want to keep.
-4. Do one full consistency pass across the whole manuscript after that review, rather than revising isolated lines one at a time.
-5. After the text is stable, do a publication-prep pass on front matter, metadata, exports, and POD/EPUB packaging.
+3. Decide whether genealogy material should remain outside the running narrative or be added later in an appendix or prefatory section.
+4. Review the open questions in `references.md` and decide which chronology and ending choices you want to keep.
+5. Do one full consistency pass across the whole manuscript after that review, rather than revising isolated lines one at a time.
+6. After the text is stable, do a publication-prep pass on front matter, metadata, exports, and POD/EPUB packaging.
 
 ## Suggested Review Focus
 
@@ -84,4 +126,4 @@ These are the sections where tone, compression, chronology, and wording choices 
 
 At the beginning of the next session, the best prompt is likely:
 
-`Read the whole manuscript from sections 0 to 7 of One Lord, One Story and help me do a final consistency review before publication prep.`
+`Read the updated manuscript of One Lord, One Story straight through and help me do a full consistency review before publication prep.`

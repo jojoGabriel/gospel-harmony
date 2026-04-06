@@ -12,3 +12,4 @@ sections/06_crucifixion.md
 sections/07_resurrection.md
 back_matter/01_note_on_method.md
 back_matter/02_note_on_sources.md
+back_matter/03_genealogies.md

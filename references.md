@@ -33,9 +33,9 @@ For each section, record:
 
 ### 01. Birth and Early Years
 
-- Matthew: 1:1-25; 2:1-23
+- Matthew: 1:18-25; 2:1-23
 - Mark: none
-- Luke: 1:5-80; 2:1-52
+- Luke: 1:1-80; 2:1-52
 - John: none
 - Chronology notes: Zechariah and Elizabeth precede the annunciation to Mary; Joseph's dream follows Mary's return and explains his acceptance of her pregnancy; the temple presentation is placed after the shepherds and before the visit of the magi; the magi visit the Child in a house, after which the flight to Egypt and later settlement in Nazareth follow; Luke's summary return to Nazareth is read as compressed rather than excluding Matthew's Egypt narrative.
 - Merge decisions: Included both annunciations, both infancy witnesses, and both early-childhood episodes without duplicating material; retained direct speech where it carries major theological weight; condensed Mary's song, Simeon's blessing, and the angelic announcements while preserving their central meaning; preserved Matthew's fulfillment material only where it naturally supports the narrative.
@@ -43,8 +43,8 @@ For each section, record:
   - Do not condense the major direct quotations much further.
     Reason: the annunciations, songs, and blessings carry major theological weight, and the project's present standard favors preserving speech-rich material rather than flattening it into summary.
     Confidence: high.
-  - Keep genealogy material out of the running narrative and place it in an appendix or prefatory section if included later.
-    Reason: the genealogies are important but interrupt continuous story flow more than they advance it in a single harmonized narrative.
+  - Keep both genealogy passages out of the running narrative and place them in an appendix or prefatory section if included later.
+    Reason: Matthew 1:1-17 and Luke 3:23-38 are important, but they interrupt continuous story flow more than they advance it in a single harmonized narrative.
     Confidence: high.
 
 ### 02. John the Baptist and Beginning of Ministry
@@ -85,15 +85,15 @@ For each section, record:
 
 ### 04. Teachings and Parables
 
-- Matthew: 5:1-7:29; 11:25-30; 13:1-52; 18:1-35; 22:15-25:46
-- Mark: 4:1-34; 9:33-50; 10:1-31; 12:13-44; 13:1-37
-- Luke: 6:17-49; 10:25-37; 11:1-13; 12:13-48; 15:1-32; 16:1-31; 17:1-10; 18:1-17; 20:20-47; 21:5-36
-- John: 7:1-52; 8:12-59; 9:1-41; 10:1-42
+- Matthew: 5:1-7:29; 11:25-30; 13:1-52; 18:1-35; 19:1-30; 20:1-16; 21:23-46; 22:1-25:46
+- Mark: 4:1-34; 9:33-50; 10:1-31; 11:27-33; 12:1-44; 13:1-37
+- Luke: 6:17-49; 9:46-50; 10:25-37; 11:1-54; 12:1-59; 13:1-35; 14:1-35; 15:1-32; 16:1-31; 17:1-10; 17:20-37; 18:1-17; 20:1-47; 21:1-36
+- John: 7:1-53; 8:1-59; 9:1-41; 10:1-42
 - Chronology notes: Arranged the teachings in a broadly chronological progression: early Galilean kingdom instruction, parables by the sea, mercy and discipleship teachings, then Jerusalem feast and temple discourses, ending with the late watchfulness and judgment teaching before the passion.
 - Merge decisions: Shifted the section away from report-style summary toward expanded harmony, especially in the Sermon material, major parables, and the Jerusalem discourse blocks; merged the Sermon on the Mount and Sermon on the Plain by preserving shared sayings in a single direct-speech movement rather than keeping separate sermon forms; grouped related parables of the kingdom, mercy, prayer, wealth, discipleship, and readiness while preserving more direct speech and more of each discourse unit's inner shape; completed a later consistency pass so the section now matches the expanded-harmony standard used across the manuscript more closely.
 - Recommended decisions:
-  - Omit the woman caught in adultery from the harmonized main narrative.
-    Reason: the passage is widely regarded as text-critically secondary to John's Gospel, so excluding it from the main harmonized flow gives it no more narrative weight than the evidence warrants.
+  - Keep the woman caught in adultery visibly marked if it remains in the main section.
+    Reason: the passage is widely regarded as text-critically secondary to John's Gospel, so if it is included in the harmony it should be distinguished rather than silently absorbed into the surrounding Johannine flow.
     Confidence: high.
     Sources: NET text-critical note on John 7:53-8:11; see [Bible.org](https://bible.org/netbible/joh8_notes.htm). See also TGC discussion of the passage's non-Johannine status in preaching and textual criticism: [TGC Themelios](https://www.thegospelcoalition.org/themelios/article/text-criticism-and-the-pulpit-should-one-preach-about-the-woman-caught-in-adultery/).
   - Keep the late temple discourse chiefly in this section.
@@ -107,7 +107,7 @@ For each section, record:
 
 - Matthew: 19:13-30; 20:17-34; 21:1-22; 26:6-13
 - Mark: 10:13-52; 11:1-26; 14:3-9
-- Luke: 9:51-10:42; 13:22; 17:11-19; 18:15-19:48
+- Luke: 9:51-10:42; 13:22; 17:11-19; 18:15-19:48; 21:37-38
 - John: 7:1-13; 10:22-42; 11:1-57; 12:1-50
 - Chronology notes: Began with Luke's turning point in 9:51, then wove in the Jerusalem-feast framework from John; placed the Feast of Dedication and the Lazarus narrative before the final Jericho ascent; followed John's timing in placing the Bethany anointing before the triumphal entry while retaining the Synoptic parallels; ended with the close of Jesus' public ministry before the passion proper.
 - Merge decisions: Kept the larger discourse blocks in section 4 and used this section mainly for movement, conflict, and arrival scenes; preserved the seventy-two, Martha and Mary, the ten lepers, Lazarus, Jericho, Zacchaeus, Bethany, the triumphal entry, the temple cleansing, the fig tree, and the Greek visitors as the main narrative pillars; used John's chronology to frame the final approach while allowing Luke's travel material and the Synoptic Jericho-to-Jerusalem sequence to flow into it.
@@ -146,7 +146,7 @@ For each section, record:
 ### 07. Resurrection
 
 - Matthew: 28:1-20
-- Mark: 16:1-8, 9-11
+- Mark: 16:1-20
 - Luke: 24:1-53
 - John: 20:1-21:25
 - Chronology notes: Began with the women at the tomb before separating Mary Magdalene's return to Peter and John from the other women's encounter with the angels and with Jesus; kept the Emmaus appearance and the first Jerusalem appearance on the same day; placed Thomas one week later, then the Galilee sea appearance and Galilee mountain commission, and closed with the later Bethany departure and blessing.
@@ -155,8 +155,8 @@ For each section, record:
   - Keep the ending with Luke's ascension movement joined to John 20:30-31.
     Reason: this gives the manuscript a strong narrative lift into worship and departure while also ending with John's purpose statement in a fittingly theological way.
     Confidence: medium-high.
-  - Remove dependence on Mark 16:9-11 if a later revision can do so cleanly.
-    Reason: the longer ending of Mark is text-critically disputed, and the resurrection narrative is already well supported by Matthew, Luke, and John without requiring that material.
+  - Keep Mark 16:12-20 visibly marked if the longer ending remains in the main section.
+    Reason: the longer ending of Mark is text-critically disputed, so any use of it should remain explicit and editorially transparent.
     Confidence: high.
     Sources: NET note on Mark 16:9-20 and its disputed status; see [Bible.org/NET](https://bible.org/netbible/mar16_notes.htm). See also Mark L. Strauss's summary that Mark 16:9-20 was almost certainly not written by Mark: [MasterLectures/Zondervan](https://masterlectures.zondervanacademic.com/videos/bonus-is-mark-16-9-20-really-part-of-the-bible) and [TGC Mark commentary](https://evangile21.thegospelcoalition.org/commentary/mark/).
   - In a later print-readability pass, consider breaking some resurrection appearances into slightly shorter paragraphs.

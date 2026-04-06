@@ -2,6 +2,8 @@
 
 References: Matthew 1-2; Luke 1-2
 
+Since many had undertaken to compile an orderly account of the things fulfilled among them, as they had been handed down by those who from the beginning were eyewitnesses and servants of the word, it seemed good to set them forth carefully for certainty's sake. <span class="review-ref">[Luke 1:1-4]</span>
+
 In the days of Herod, king of Judea, there was a priest named Zechariah, of the division of Abijah. His wife Elizabeth was from the daughters of Aaron, and they were both righteous before God, walking blamelessly in all the commandments and statutes of the Lord. Yet they had no child, because Elizabeth was barren, and they were both advanced in years. <span class="review-ref">[Luke 1:5-7]</span>
 
 While Zechariah was carrying out his priestly service before God with his division, the lot fell to him to go into the Lord's sanctuary and offer incense. The people stood outside praying at the time of the offering. Then an angel of the Lord appeared to him on the right side of the altar. Zechariah was shaken by the sight, and fear fell upon him. But the angel said, "Do not fear, Zechariah. Your petition has been heard. Elizabeth your wife will bear you a son, and you are to name him John. He will be great before the Lord, he will turn many in Israel back to their God, and he will go before the Lord in the spirit and power of Elijah to prepare a people made ready for Him." <span class="review-ref">[Luke 1:8-17]</span>
