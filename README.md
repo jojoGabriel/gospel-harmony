@@ -1,4 +1,4 @@
-# Harmonized Gospel
+# One Jesus, Out of Four
 
 This project develops a single, condensed Gospel narrative by harmonizing Matthew, Mark, Luke, and John into one continuous account.
 

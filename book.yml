@@ -1,28 +1,28 @@
 project:
   slug: harmonized-gospel
-  title: Harmonized Gospel
+  title: One Jesus, Out of Four
   subtitle: A Single Narrative from Matthew, Mark, Luke, and John
-  short_title: Harmonized Gospel
+  short_title: One Jesus, Out of Four
   language: en-US
   trim_size: "6 x 9 in"
   genre: Religious / Bible harmony / devotional study
 
 contributors:
-  author: "[AUTHOR NAME]"
-  editor: "[EDITOR NAME]"
-  publisher_imprint: "[IMPRINT NAME]"
+  author: "Jonathan Gabriel"
+  editor: ""
+  publisher_imprint: ""
 
 rights:
-  copyright_holder: "[COPYRIGHT HOLDER]"
-  copyright_year: "[YEAR]"
+  copyright_holder: ""
+  copyright_year: "2026"
   statement: >
     This work is a harmonized Gospel narrative prepared as a secondary study aid.
     It is not Scripture, not a Bible translation, and not intended to replace the Bible.
 
 identifiers:
-  print_isbn: "[PRINT ISBN]"
-  epub_isbn: "[EPUB ISBN]"
-  kindle_asin: "[KINDLE ASIN]"
+  print_isbn: ""
+  epub_isbn: ""
+  kindle_asin: ""
 
 edition_defaults:
   review_references_markup: review-ref

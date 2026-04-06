@@ -1,7 +1,5 @@
-# Harmonized Gospel
+# One Jesus, Out of Four
 
 ## A Single Narrative from Matthew, Mark, Luke, and John
 
-Prepared by [AUTHOR NAME]
-
-Edited by [EDITOR NAME]
+Prepared by Jonathan Gabriel

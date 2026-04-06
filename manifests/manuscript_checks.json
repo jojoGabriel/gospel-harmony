@@ -1535,22 +1535,58 @@
       "explanation": "This parable cluster should preserve weeds, treasure, pearl, and net imagery."
     },
     {
-      "id": "neighbor-lost-and-found",
+      "id": "good-samaritan",
       "ref": "Luke 10:25-37",
       "shared_core": [
         "who is my neighbor",
         "samaritan",
-        "lost and has been found"
+        "proved neighbor"
       ],
       "distinctive_details": {
         "items": [
           "jerusalem to jericho",
-          "hundred sheep",
-          "two sons"
+          "fell among robbers",
+          "bound up his wounds"
         ],
         "min_present": 2
       },
-      "explanation": "This combined mercy-and-recovery block should preserve the Good Samaritan and lost-and-found parables."
+      "explanation": "The Good Samaritan paragraph should preserve the question of neighbor-love and the Samaritan's mercy."
+    },
+    {
+      "id": "lost-sheep-and-coin",
+      "ref": "Luke 15:1-10",
+      "shared_core": [
+        "hundred sheep",
+        "ten silver coins",
+        "rejoice"
+      ],
+      "distinctive_details": {
+        "items": [
+          "lays it on his shoulders",
+          "light a lamp",
+          "friends and neighbors"
+        ],
+        "min_present": 2
+      },
+      "explanation": "The lost sheep and lost coin paragraph should preserve both search-and-rejoicing images."
+    },
+    {
+      "id": "prodigal-son",
+      "ref": "Luke 15:11-32",
+      "shared_core": [
+        "two sons",
+        "i will arise and go to my father",
+        "lost and has been found"
+      ],
+      "distinctive_details": {
+        "items": [
+          "distant country",
+          "ran to him",
+          "elder son was angry"
+        ],
+        "min_present": 2
+      },
+      "explanation": "The prodigal son paragraph should preserve both the younger son's return and the elder brother's resistance."
     },
     {
       "id": "persistent-prayer-and-humility",
