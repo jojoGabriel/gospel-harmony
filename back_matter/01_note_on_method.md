@@ -4,4 +4,4 @@ The narrative is arranged according to a working chronological harmonization of 
 
 Distinct details are preserved when they can stand together naturally. Repetition is reduced when the accounts are clearly parallel. Longer teaching material may be grouped by narrative setting or by literary coherence, depending on what best serves clarity without distorting the source texts.
 
-Chronology decisions and merge notes are tracked in `references.md` during drafting so that revisions remain auditable.
+Chronology decisions and merge notes were tracked during drafting so that the harmonization remained auditable through revision.

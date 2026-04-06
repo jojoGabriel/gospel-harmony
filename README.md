@@ -75,6 +75,41 @@ prompt_template.md
 4. Produce one smooth narrative in a unified voice.
 5. Revise for clarity, theological accuracy, and flow.
 
+## Automated Checks
+
+Run the manuscript lint pass with:
+
+```bash
+python3 scripts/manuscript_lint.py
+```
+
+See paragraph-by-paragraph content-check coverage with:
+
+```bash
+python3 scripts/manuscript_lint.py --report-coverage
+```
+
+When the curated suite is mature enough to enforce full paragraph coverage, use:
+
+```bash
+python3 scripts/manuscript_lint.py --report-coverage --fail-on-uncovered
+```
+
+This check currently does two things:
+
+- verifies that narrative paragraphs in `sections/` still carry review references
+- enforces curated anchor checks for passages where a key phrase or quotation is easy to lose during revision
+
+The anchor rules live in `manifests/manuscript_checks.json`, so additional cases can be added over time as the team finds fragile passages worth guarding. Coverage reporting makes it possible to see which paragraph blocks still have no content-level check at all.
+
+For multi-Gospel passages, prefer this schema in each rule:
+
+- `shared_core`: anchors the harmony should always preserve from the combined witness
+- `distinctive_details`: optional details that should survive from one or more parallel accounts, with `min_present` to avoid overfitting
+- `quotation_anchors`: key sayings or quotation-shaped phrases, also with `min_present` when multiple faithful forms are acceptable
+
+Keep anchors short and meaning-bearing. The goal is to guard indispensable content from trusted translation traditions without forcing one exact English wording.
+
 ## Publishing Model
 
 The repo is scaffolded for single-source publishing:

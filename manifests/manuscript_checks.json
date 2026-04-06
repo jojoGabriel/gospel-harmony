@@ -1,0 +1,2305 @@
+{
+  "required_anchor_checks": [
+    {
+      "id": "john-prologue",
+      "ref": "John 1:1-5",
+      "all_of": [
+        "the word",
+        "with god",
+        "was god",
+        "life",
+        "light"
+      ],
+      "explanation": "The prologue should preserve John's core claims about the Word, life, and light."
+    },
+    {
+      "id": "annunciation-promise",
+      "ref": "Luke 1:26-33",
+      "all_of": [
+        "found favor",
+        "conceive and bear a son",
+        "son of the most high",
+        "throne of david",
+        "no end"
+      ],
+      "explanation": "The annunciation should retain the angel's promise about Jesus' identity and kingdom."
+    },
+    {
+      "id": "joseph-immanuel",
+      "ref": "Matt 1:18-25",
+      "all_of": [
+        "holy spirit",
+        "save his people from their sins",
+        "immanuel"
+      ],
+      "explanation": "Joseph's dream should keep the conception, naming, and Immanuel material."
+    },
+    {
+      "id": "shepherds-announcement",
+      "ref": "Luke 2:8-20",
+      "all_of": [
+        "good news",
+        "savior",
+        "christ the lord",
+        "glory to god"
+      ],
+      "explanation": "The shepherds scene should preserve the angelic announcement and praise."
+    },
+    {
+      "id": "boy-in-temple",
+      "ref": "Luke 2:41-50",
+      "all_of": [
+        "my father's house"
+      ],
+      "explanation": "The temple scene should keep Jesus' first recorded saying about His Father."
+    },
+    {
+      "id": "john-prepare-the-way",
+      "ref": "Matt 3:1-3",
+      "all_of": [
+        "wilderness",
+        "prepare the way of the lord",
+        "make his paths straight"
+      ],
+      "explanation": "John's opening proclamation should retain the Isaiah forerunner wording."
+    },
+    {
+      "id": "john-coming-one",
+      "ref": "Matt 3:11-12",
+      "all_of": [
+        "holy spirit and with fire",
+        "winnowing fork",
+        "unquenchable fire"
+      ],
+      "explanation": "John's witness should preserve the stronger-coming-One material."
+    },
+    {
+      "id": "baptism-declaration",
+      "ref": "Matt 3:13-17",
+      "all_of": [
+        "fulfill all righteousness",
+        "like a dove",
+        "beloved son"
+      ],
+      "explanation": "Jesus' baptism should preserve the righteousness, dove, and heavenly declaration."
+    },
+    {
+      "id": "temptation-core",
+      "ref": "Matt 4:1-11",
+      "all_of": [
+        "stones to become bread",
+        "put the lord your god to the test",
+        "worship the lord your god",
+        "angels came and ministered"
+      ],
+      "explanation": "The temptation narrative should preserve the main temptations and scriptural replies."
+    },
+    {
+      "id": "lamb-of-god",
+      "ref": "John 1:29-42",
+      "all_of": [
+        "lamb of god",
+        "takes away the sin of the world",
+        "we have found the messiah"
+      ],
+      "explanation": "John's witness and the first disciples should retain the Lamb-of-God and Messiah wording."
+    },
+    {
+      "id": "cana-dialogue",
+      "ref": "John 2:1-11",
+      "all_of": [
+        "woman",
+        "hour"
+      ],
+      "explanation": "The Cana scene should preserve Jesus' address to His mother and His statement about His hour."
+    },
+    {
+      "id": "temple-cleansing",
+      "ref": "John 2:12-17",
+      "all_of": [
+        "my father's house",
+        "house of trade",
+        "zeal for god's house"
+      ],
+      "explanation": "The first temple cleansing should preserve the Father's-house and zeal motifs."
+    },
+    {
+      "id": "nicodemus-new-birth",
+      "ref": "John 3:1-21",
+      "all_of": [
+        "born from above",
+        "born of water and spirit",
+        "god loved the world in this way",
+        "eternal life"
+      ],
+      "explanation": "The Nicodemus discourse should preserve the new-birth and saving-purpose language."
+    },
+    {
+      "id": "john-must-increase",
+      "ref": "John 3:22-36",
+      "all_of": [
+        "he must increase",
+        "i must decrease",
+        "whoever believes in the son has eternal life"
+      ],
+      "explanation": "John's closing witness should preserve the increase-decrease saying and its conclusion."
+    },
+    {
+      "id": "samaritan-living-water",
+      "ref": "John 4:4-10",
+      "all_of": [
+        "gift of god",
+        "living water"
+      ],
+      "explanation": "The Samaritan well scene should preserve the living-water opening."
+    },
+    {
+      "id": "samaritan-water-to-eternal-life",
+      "ref": "John 4:11-15",
+      "shared_core": [
+        "well is deep",
+        "spring of water rising up to eternal life"
+      ],
+      "quotation_anchors": {
+        "items": [
+          {
+            "label": "water and thirst contrast",
+            "any_of": [
+              "whoever drinks of this water will thirst again",
+              "everyone who drinks of this water will thirst again"
+            ]
+          }
+        ],
+        "min_present": 1
+      },
+      "distinctive_details": {
+        "items": [
+          "are you greater than our father jacob",
+          "sir, give me this water"
+        ],
+        "min_present": 1
+      },
+      "explanation": "The second Samaritan exchange should preserve the contrast between well water and eternal life."
+    },
+    {
+      "id": "samaritan-worship",
+      "ref": "John 4:16-24",
+      "all_of": [
+        "believe me, woman",
+        "worship the father",
+        "spirit and truth"
+      ],
+      "explanation": "The worship dialogue should preserve the central spirit-and-truth formulation."
+    },
+    {
+      "id": "samaritan-messiah-reveal",
+      "ref": "John 4:25-30",
+      "shared_core": [
+        "messiah is coming",
+        "i who speak to you am he",
+        "come, see a man who told me all that i ever did"
+      ],
+      "distinctive_details": {
+        "items": [
+          "left her water jar",
+          "could this be the christ"
+        ],
+        "min_present": 1
+      },
+      "explanation": "The Samaritan woman's recognition scene should preserve Jesus' self-revelation and her witness."
+    },
+    {
+      "id": "harvest-saying",
+      "ref": "John 4:31-38",
+      "shared_core": [
+        "my food is to do the will of the one who sent me",
+        "fields",
+        "white for harvest"
+      ],
+      "distinctive_details": {
+        "items": [
+          "sower and reaper may rejoice together",
+          "fruit for eternal life"
+        ],
+        "min_present": 1
+      },
+      "explanation": "The harvest discourse should preserve Jesus' food saying and the harvest image."
+    },
+    {
+      "id": "samaritans-confess-savior",
+      "ref": "John 4:39-42",
+      "shared_core": [
+        "many samaritans",
+        "stayed there two days",
+        "savior of the world"
+      ],
+      "distinctive_details": {
+        "items": [
+          "no longer because of your speaking",
+          "heard for ourselves"
+        ],
+        "min_present": 1
+      },
+      "explanation": "The Samaritan response should preserve both the woman's testimony and their direct confession."
+    },
+    {
+      "id": "nazareth-isaiah-quote",
+      "ref": "Luke 4:16-21",
+      "all_of": [
+        "the spirit of the lord",
+        "good news to the poor",
+        "liberty",
+        "recovery of sight to the blind",
+        "the year of the lord's favor"
+      ],
+      "min_quote_spans": 2,
+      "explanation": "The Nazareth synagogue scene should preserve the Isaiah reading as an explicit quotation."
+    },
+    {
+      "id": "nazareth-rejection",
+      "ref": "Luke 4:22-30",
+      "shared_core": [
+        "no prophet is accepted in his own country",
+        "widow in sidon",
+        "naaman the syrian"
+      ],
+      "distinctive_details": {
+        "items": [
+          "filled with wrath",
+          "throw him down",
+          "passed through their midst"
+        ],
+        "min_present": 2
+      },
+      "explanation": "The Nazareth rejection should preserve Jesus' proverb, Old Testament examples, and attempted violence."
+    },
+    {
+      "id": "fishers-of-men",
+      "ref": "Matt 4:13-22",
+      "all_of": [
+        "fishers of men"
+      ],
+      "explanation": "The seaside call should preserve the fishers-of-men saying."
+    },
+    {
+      "id": "miraculous-catch",
+      "ref": "Luke 5:1-11",
+      "shared_core": [
+        "put out into deep water",
+        "we have toiled all night and taken nothing",
+        "depart from me, lord, for i am a sinful man"
+      ],
+      "distinctive_details": {
+        "items": [
+          "nets began to break",
+          "from now on you will catch men",
+          "taught the multitude from the boat"
+        ],
+        "min_present": 2
+      },
+      "explanation": "The miraculous catch should preserve Peter's confession and Jesus' call through the sign."
+    },
+    {
+      "id": "capernaum-authority-healings",
+      "ref": "Mark 1:21-39",
+      "shared_core": [
+        "astonished at his teaching",
+        "word carried authority",
+        "unclean spirit"
+      ],
+      "distinctive_details": {
+        "items": [
+          "simon's mother-in-law",
+          "desolate place",
+          "i must preach the good news of the kingdom of god to the other towns also"
+        ],
+        "min_present": 2
+      },
+      "explanation": "The early Capernaum block should preserve authority, exorcism, healing, and Jesus' preaching purpose."
+    },
+    {
+      "id": "leper-cleansed",
+      "ref": "Matt 8:1-4",
+      "shared_core": [
+        "if you are willing",
+        "i am willing",
+        "be cleansed"
+      ],
+      "distinctive_details": {
+        "items": [
+          "moved with compassion",
+          "touched him",
+          "immediately the leprosy left him"
+        ],
+        "min_present": 2
+      },
+      "explanation": "The cleansing of the leper should preserve both the plea and Jesus' compassionate response."
+    },
+    {
+      "id": "paralytic-forgiveness",
+      "ref": "Matt 9:1-8",
+      "all_of": [
+        "your sins are forgiven",
+        "rise, take up your mat and walk"
+      ],
+      "explanation": "The paralytic healing should preserve both forgiveness and visible healing."
+    },
+    {
+      "id": "levi-call",
+      "ref": "Matt 9:9-13",
+      "shared_core": [
+        "follow me",
+        "tax collectors and sinners",
+        "those who are well have no need of a physician"
+      ],
+      "distinctive_details": {
+        "items": [
+          "levi made a great feast",
+          "call the righteous, but sinners, to repentance"
+        ],
+        "min_present": 1
+      },
+      "explanation": "The call of Levi should preserve the table-fellowship scandal and Jesus' physician saying."
+    },
+    {
+      "id": "sabbath-conflicts",
+      "ref": "John 5:1-18",
+      "shared_core": [
+        "rise, take up your mat, and walk",
+        "sabbath",
+        "son of man is lord even of the sabbath"
+      ],
+      "distinctive_details": {
+        "items": [
+          "pool of bethesda",
+          "withered hand",
+          "to do good or to do harm"
+        ],
+        "min_present": 2
+      },
+      "explanation": "The Sabbath conflict cycle should preserve both the healings and Jesus' Sabbath authority."
+    },
+    {
+      "id": "twelve-appointed",
+      "ref": "Mark 3:7-19",
+      "shared_core": [
+        "chose twelve",
+        "named apostles",
+        "judas iscariot"
+      ],
+      "distinctive_details": {
+        "items": [
+          "withdrew often to the mountain to pray",
+          "simon, whom he called peter",
+          "who became a traitor"
+        ],
+        "min_present": 2
+      },
+      "explanation": "The choosing of the Twelve should preserve the appointment, naming, and prayer setting."
+    },
+    {
+      "id": "centurion-nain-women",
+      "ref": "Matt 8:5-13",
+      "shared_core": [
+        "centurion",
+        "healed his servant from afar",
+        "only son of a widow"
+      ],
+      "distinctive_details": {
+        "items": [
+          "nain",
+          "gave him back to his mother",
+          "women who had been healed"
+        ],
+        "min_present": 2
+      },
+      "explanation": "This combined narrative should preserve the centurion, Nain, and the women who followed Jesus."
+    },
+    {
+      "id": "johns-question",
+      "ref": "Matt 11:2-15",
+      "shared_core": [
+        "one who was to come",
+        "blind receive sight",
+        "poor have good news preached to them"
+      ],
+      "distinctive_details": {
+        "items": [
+          "blessed is the one who does not stumble because of me",
+          "reed shaken by the wind",
+          "greater than john the baptist"
+        ],
+        "min_present": 2
+      },
+      "explanation": "John's inquiry should preserve Jesus' answer and His public witness about John."
+    },
+    {
+      "id": "storm-and-legion",
+      "ref": "Matt 13:1-3",
+      "shared_core": [
+        "calmed a great storm",
+        "legion of demons"
+      ],
+      "distinctive_details": {
+        "items": [
+          {
+            "label": "storm authority",
+            "any_of": [
+              "winds and the waves obey him",
+              "those in the boat marveled",
+              "even the winds and the waves obeyed him"
+            ]
+          },
+          "decapolis",
+          "taught them privately",
+          "proclaimed what great things jesus had done for him"
+        ],
+        "min_present": 2
+      },
+      "explanation": "The sea-and-Decapolis block should preserve both Jesus' authority over nature and over the demonic."
+    },
+    {
+      "id": "jairus-and-blood",
+      "ref": "Matt 9:18-34",
+      "shared_core": [
+        "jairus",
+        "flow of blood for twelve years",
+        "raised her up"
+      ],
+      "distinctive_details": {
+        "items": [
+          "touched the fringe of his garment",
+          "nothing like this has ever been seen in israel",
+          "believing she would be healed"
+        ],
+        "min_present": 2
+      },
+      "explanation": "The intertwined healing narratives should preserve Jairus, the hemorrhaging woman, and the raising."
+    },
+    {
+      "id": "beelzebul-and-jonah",
+      "ref": "Matt 12:22-45",
+      "shared_core": [
+        "every kingdom divided against itself is brought to ruin",
+        "holy spirit",
+        "sign of jonah"
+      ],
+      "distinctive_details": {
+        "items": [
+          "casting out demons by the ruler of demons",
+          "many stumbled at him",
+          "did not do many mighty works there"
+        ],
+        "min_present": 2
+      },
+      "explanation": "The controversy block should preserve the Beelzebul reply, warning, and Jonah sign."
+    },
+    {
+      "id": "twelve-sent",
+      "ref": "Matt 10:1-15",
+      "shared_core": [
+        "authority over unclean spirits",
+        "preach the kingdom of god",
+        "take nothing for the journey"
+      ],
+      "distinctive_details": {
+        "items": [
+          "heal the sick",
+          "call men to repentance",
+          "freely you have received; freely give"
+        ],
+        "min_present": 2
+      },
+      "explanation": "The mission of the Twelve should preserve authority, proclamation, and travel instructions."
+    },
+    {
+      "id": "johns-death",
+      "ref": "Matt 14:1-12",
+      "shared_core": [
+        "it is not lawful for you to have her",
+        "head of john the baptist on a platter",
+        "john was beheaded"
+      ],
+      "distinctive_details": {
+        "items": [
+          "herod was perplexed",
+          "because of his oaths and his dinner guests",
+          "brought jesus the news"
+        ],
+        "min_present": 2
+      },
+      "explanation": "John's death should preserve the rebuke, the request, and the execution."
+    },
+    {
+      "id": "feeding-five-thousand",
+      "ref": "Matt 14:13-21",
+      "shared_core": [
+        "you give them something to eat",
+        "five loaves and two fish",
+        "twelve baskets"
+      ],
+      "distinctive_details": {
+        "items": [
+          "near bethsaida",
+          "spoke to them concerning the kingdom of god",
+          "all ate and were satisfied"
+        ],
+        "min_present": 2
+      },
+      "explanation": "The feeding miracle should preserve Jesus' command, the loaves and fish, and the abundance left over."
+    },
+    {
+      "id": "walking-on-water",
+      "ref": "Matt 14:22-33",
+      "shared_core": [
+        "walking on the water",
+        "take courage. it is i. do not be afraid",
+        "truly you are the son of god"
+      ],
+      "distinctive_details": {
+        "items": [
+          "make him king by force",
+          "command me to come to you on the water",
+          "it came at once to the shore"
+        ],
+        "min_present": 2
+      },
+      "explanation": "The sea miracle should preserve Jesus' self-identification, Peter's episode, and the disciples' confession."
+    },
+    {
+      "id": "bread-of-life",
+      "ref": "John 6:22-71",
+      "shared_core": [
+        "bread of life",
+        "bread that i will give for the life of the world is my flesh",
+        "you have the words of eternal life"
+      ],
+      "distinctive_details": {
+        "items": [
+          "do not labor for the food that perishes",
+          "this word is hard. who can hear it",
+          "many of his disciples turned away"
+        ],
+        "min_present": 2
+      },
+      "explanation": "John 6 should preserve Jesus' bread discourse, the offense it caused, and Peter's reply."
+    },
+    {
+      "id": "syrophoenician-woman",
+      "ref": "Matt 15:1-28",
+      "shared_core": [
+        "what proceeds from the heart",
+        "have mercy on me, lord, son of david",
+        "little dogs eat the crumbs"
+      ],
+      "distinctive_details": {
+        "items": [
+          "canaanite woman",
+          "syrophoenician by birth",
+          "great is your faith"
+        ],
+        "min_present": 2
+      },
+      "explanation": "The Tyre and Sidon scene should preserve both the purity teaching and the woman's persistent faith."
+    },
+    {
+      "id": "deaf-man-four-thousand-leaven",
+      "ref": "Matt 15:29-16:12",
+      "shared_core": [
+        "deaf hear and the mute speak",
+        "fed about four thousand",
+        "beware the leaven of the pharisees and sadducees"
+      ],
+      "distinctive_details": {
+        "items": [
+          "he has done all things well",
+          "demanded a sign from heaven",
+          "blind man by the hand"
+        ],
+        "min_present": 2
+      },
+      "explanation": "This late Galilean block should preserve the deaf man, second feeding, warning, and Bethsaida healing."
+    },
+    {
+      "id": "peter-confession",
+      "ref": "Matt 16:13-28",
+      "shared_core": [
+        "christ of god",
+        "take up his cross"
+      ],
+      "distinctive_details": {
+        "items": [
+          "son of the living god",
+          "blessed for that confession"
+        ],
+        "min_present": 1
+      },
+      "explanation": "Peter's confession and the first passion prediction should retain their core turns."
+    },
+    {
+      "id": "transfiguration-voice",
+      "ref": "Matt 17:1-13",
+      "all_of": [
+        "moses and elijah",
+        "this is my son",
+        "hear him"
+      ],
+      "explanation": "The transfiguration should preserve the witnesses and the heavenly voice."
+    },
+    {
+      "id": "boy-after-transfiguration",
+      "ref": "Matt 17:14-23",
+      "shared_core": [
+        "unclean spirit",
+        "disciples had been unable to cast it out",
+        "son of man is about to be delivered into the hands of men"
+      ],
+      "distinctive_details": {
+        "items": [
+          "rebuked the spirit and healed the boy",
+          "astonished at the majesty of god",
+          "did not understand"
+        ],
+        "min_present": 2
+      },
+      "explanation": "The descent-from-the-mountain scene should preserve the failed exorcism, Jesus' healing, and the renewed passion prediction."
+    },
+    {
+      "id": "sermon-opening",
+      "ref": "Matt 5:1-20",
+      "all_of": [
+        "blessed are the poor in spirit",
+        "light of the world",
+        "law or the prophets"
+      ],
+      "explanation": "The sermon opening should preserve the Beatitudes and the law-fulfillment material."
+    },
+    {
+      "id": "sermon-prayer-seeking",
+      "ref": "Matt 6:1-34",
+      "all_of": [
+        "our father in heaven",
+        "forgive us our debts",
+        "seek first the kingdom of god"
+      ],
+      "explanation": "The prayer and trust section should retain the Lord's Prayer and seek-first language."
+    },
+    {
+      "id": "parables-seed",
+      "ref": "Matt 13:1-23, 31-35",
+      "all_of": [
+        "a sower went out to sow",
+        "he who has ears to hear",
+        "mustard seed",
+        "leaven"
+      ],
+      "explanation": "The parable block should preserve the seed, hearing, and kingdom-growth images."
+    },
+    {
+      "id": "feast-of-tabernacles-cries",
+      "ref": "John 7:1-52",
+      "all_of": [
+        "do not judge by appearances",
+        "if any man is thirsty",
+        "rivers of living water"
+      ],
+      "explanation": "The feast material should preserve Jesus' public cry and right-judgment line."
+    },
+    {
+      "id": "light-truth-i-am",
+      "ref": "John 8:12-59",
+      "all_of": [
+        "light of the world",
+        "truth will make you free",
+        "before abraham came to be, i am"
+      ],
+      "explanation": "The temple dispute should preserve the light, freedom, and Abraham-before-I-am turns."
+    },
+    {
+      "id": "martha-and-mary",
+      "ref": "Luke 10:38-42",
+      "all_of": [
+        "martha, martha",
+        "one thing is needful",
+        "better part"
+      ],
+      "explanation": "The Martha and Mary scene should keep the repeated name and Jesus' contrast."
+    },
+    {
+      "id": "lazarus-resurrection-life",
+      "ref": "John 11:1-27",
+      "all_of": [
+        "your brother will rise again",
+        "i am the resurrection and the life",
+        "son of god"
+      ],
+      "explanation": "The Lazarus approach should preserve Jesus' self-revelation and Martha's confession."
+    },
+    {
+      "id": "lazarus-come-out",
+      "ref": "John 11:28-44",
+      "all_of": [
+        "jesus wept",
+        "take away the stone",
+        "lazarus, come out"
+      ],
+      "explanation": "The raising of Lazarus should preserve the shortest lament and the command to Lazarus."
+    },
+    {
+      "id": "zacchaeus-salvation",
+      "ref": "Luke 19:1-10",
+      "all_of": [
+        "zacchaeus",
+        "today salvation has come to this house",
+        "seek and to save what was lost"
+      ],
+      "explanation": "The Zacchaeus episode should preserve the salvation and seek-save saying."
+    },
+    {
+      "id": "triumphal-entry",
+      "ref": "Matt 21:1-11",
+      "shared_core": [
+        "hosanna"
+      ],
+      "distinctive_details": {
+        "items": [
+          {
+            "label": "king acclamation",
+            "any_of": [
+              "king who comes in the name of the lord",
+              "blessed is the king who comes in the name of the lord"
+            ]
+          },
+          "stones themselves would cry out"
+        ],
+        "min_present": 2
+      },
+      "explanation": "The entry into Jerusalem should preserve the acclamation and stone-crying response."
+    },
+    {
+      "id": "temple-house-of-prayer",
+      "ref": "Matt 21:12-17",
+      "all_of": [
+        "house of prayer",
+        "den of robbers"
+      ],
+      "explanation": "The temple cleansing in Jerusalem should preserve Jesus' citation against abuse."
+    },
+    {
+      "id": "grain-of-wheat",
+      "ref": "John 12:20-50",
+      "all_of": [
+        "grain of wheat",
+        "glorify his name",
+        "praise of men"
+      ],
+      "explanation": "The Greeks-and-glory scene should preserve the grain-of-wheat saying and response."
+    },
+    {
+      "id": "last-supper-covenant",
+      "ref": "Matt 26:26-29",
+      "shared_core": [
+        "this is my body",
+        "forgiveness of sins"
+      ],
+      "quotation_anchors": {
+        "items": [
+          "new covenant in my blood",
+          {
+            "label": "cup saying",
+            "any_of": [
+              "cup after supper",
+              "cup is the new covenant in my blood"
+            ]
+          }
+        ],
+        "min_present": 1
+      },
+      "explanation": "The supper words should preserve the body, covenant, and forgiveness language."
+    },
+    {
+      "id": "upper-room-comfort",
+      "ref": "John 14:1-31",
+      "shared_core": [
+        "do not let your hearts be troubled",
+        "another helper",
+        "peace i leave with you"
+      ],
+      "quotation_anchors": {
+        "items": [
+          "i am the way, and the truth, and the life",
+          {
+            "label": "way-truth-life variant",
+            "any_of": [
+              "i am the way and the truth and the life",
+              "the way, and the truth, and the life"
+            ]
+          }
+        ],
+        "min_present": 1
+      },
+      "explanation": "John 14 should preserve the comfort, way-truth-life, Helper, and peace language."
+    },
+    {
+      "id": "vine-and-helper",
+      "ref": "John 15:1-16:33",
+      "shared_core": [
+        "true vine",
+        "remain in me",
+        "sorrow will be turned into joy"
+      ],
+      "distinctive_details": {
+        "items": [
+          "spirit of truth",
+          "guide you into all the truth"
+        ],
+        "min_present": 1
+      },
+      "explanation": "The farewell discourse should preserve the vine imagery, Helper, and sorrow-to-joy turn."
+    },
+    {
+      "id": "high-priestly-prayer",
+      "ref": "John 17:1-26",
+      "shared_core": [
+        "father, the hour has come",
+        "sanctify them in the truth",
+        "that they all may be one",
+        "see my glory"
+      ],
+      "explanation": "John 17 should preserve the hour, sanctification, unity, and glory petitions."
+    },
+    {
+      "id": "gethsemane-watch",
+      "ref": "Matt 26:36-46",
+      "shared_core": [
+        "my soul is overwhelmed with sorrow",
+        "watch and pray"
+      ],
+      "distinctive_details": {
+        "items": [
+          {
+            "label": "submission in prayer",
+            "any_of": [
+              "not his will, but the father's",
+              "not my will, but yours be done"
+            ]
+          },
+          "hour might pass from him"
+        ],
+        "min_present": 1
+      },
+      "explanation": "Gethsemane should preserve Jesus' sorrow, submission, and warning to watch and pray."
+    },
+    {
+      "id": "pilate-kingdom",
+      "ref": "Matt 27:1-2",
+      "shared_core": [
+        "king of the jews"
+      ],
+      "distinctive_details": {
+        "items": [
+          "my kingdom is not from this world",
+          "pilate found no fault"
+        ],
+        "min_present": 1
+      },
+      "explanation": "The Roman hearing should preserve the kingship question and Jesus' kingdom answer."
+    },
+    {
+      "id": "cross-compassion-and-care",
+      "ref": "Matt 27:39-44",
+      "shared_core": [
+        "father, forgive them",
+        "paradise"
+      ],
+      "distinctive_details": {
+        "items": [
+          "woman, behold your son",
+          "behold your mother"
+        ],
+        "min_present": 2
+      },
+      "quotation_anchors": {
+        "items": [
+          "jesus, remember me when you come into your kingdom",
+          "today you will be with me in paradise"
+        ],
+        "min_present": 1
+      },
+      "explanation": "The crucifixion dialogue should preserve forgiveness, paradise, and care for Jesus' mother."
+    },
+    {
+      "id": "cross-final-sayings",
+      "ref": "Matt 27:45-56",
+      "shared_core": [
+        "my god, my god, why have you forsaken me",
+        "into your hands i commit my spirit"
+      ],
+      "quotation_anchors": {
+        "items": [
+          "i thirst",
+          "it is finished"
+        ],
+        "min_present": 2
+      },
+      "explanation": "The final sayings at the cross should preserve the major cries from the four Gospels."
+    },
+    {
+      "id": "empty-tomb-announcement",
+      "ref": "Matt 28:5-8",
+      "shared_core": [
+        "he is not here"
+      ],
+      "distinctive_details": {
+        "items": [
+          "why do you seek the living among the dead",
+          "on the third day rise"
+        ],
+        "min_present": 1
+      },
+      "explanation": "The women's encounter at the tomb should preserve the resurrection announcement."
+    },
+    {
+      "id": "mary-magdalene-encounter",
+      "ref": "John 20:11-18",
+      "shared_core": [
+        "woman, why are you weeping",
+        "rabboni",
+        "i have seen the lord"
+      ],
+      "quotation_anchors": {
+        "items": [
+          "do not cling to me",
+          "mary"
+        ],
+        "min_present": 2
+      },
+      "explanation": "Mary Magdalene's encounter should preserve recognition, restraint, and witness."
+    },
+    {
+      "id": "thomas-confession",
+      "ref": "John 20:24-29",
+      "shared_core": [
+        "my lord and my god"
+      ],
+      "quotation_anchors": {
+        "items": [
+          "blessed are those who have not seen and yet have believed",
+          {
+            "label": "peace greeting",
+            "any_of": [
+              "peace to you",
+              "peace be with you"
+            ]
+          }
+        ],
+        "min_present": 1
+      },
+      "explanation": "Thomas' scene should preserve both the confession and Jesus' blessing."
+    },
+    {
+      "id": "great-commission",
+      "ref": "Matt 28:16-20",
+      "shared_core": [
+        "all authority in heaven and on earth",
+        "make disciples of all nations",
+        "father and of the son and of the holy spirit",
+        "i am with you always"
+      ],
+      "explanation": "The Great Commission should preserve authority, mission, baptism, and promise."
+    },
+    {
+      "id": "ascension-and-purpose",
+      "ref": "Luke 24:50-53",
+      "shared_core": [
+        "taken up",
+        "great joy",
+        "these things were written",
+        "life in his name"
+      ],
+      "explanation": "The ending should preserve the ascension movement and John's purpose statement."
+    },
+    {
+      "id": "john-witness-light",
+      "ref": "John 1:6-8",
+      "shared_core": [
+        "man sent from god",
+        "bear witness concerning the light",
+        "he was not the light"
+      ],
+      "explanation": "John 1:6-8 should preserve John as witness rather than the Light."
+    },
+    {
+      "id": "true-light-received-rejected",
+      "ref": "John 1:9-13",
+      "shared_core": [
+        "true light",
+        "his own did not receive him",
+        "children of god"
+      ],
+      "distinctive_details": {
+        "items": [
+          "believing in his name",
+          "born not of blood",
+          "world did not know him"
+        ],
+        "min_present": 2
+      },
+      "explanation": "John 1:9-13 should preserve rejection, reception, and new birth from God."
+    },
+    {
+      "id": "word-became-flesh",
+      "ref": "John 1:14-15",
+      "shared_core": [
+        "word became flesh",
+        "saw his glory",
+        "grace and truth"
+      ],
+      "distinctive_details": {
+        "items": [
+          "father's only son",
+          "he was before me"
+        ],
+        "min_present": 1
+      },
+      "explanation": "John 1:14-15 should preserve incarnation, glory, and John's witness."
+    },
+    {
+      "id": "grace-and-truth-through-jesus",
+      "ref": "John 1:16-18",
+      "shared_core": [
+        "grace upon grace",
+        "law was given through moses",
+        "made him known"
+      ],
+      "distinctive_details": {
+        "items": [
+          "no one has ever seen god",
+          "father's side",
+          "grace and truth came through jesus christ"
+        ],
+        "min_present": 2
+      },
+      "explanation": "John 1:16-18 should preserve fullness, Moses, and the Son making God known."
+    },
+    {
+      "id": "zechariah-and-elizabeth",
+      "ref": "Luke 1:5-7",
+      "shared_core": [
+        "zechariah",
+        "elizabeth",
+        "both righteous before god"
+      ],
+      "distinctive_details": {
+        "items": [
+          "division of abijah",
+          "had no child",
+          "advanced in years"
+        ],
+        "min_present": 2
+      },
+      "explanation": "Luke 1:5-7 should preserve the righteous but childless condition of Zechariah and Elizabeth."
+    },
+    {
+      "id": "johns-birth-announced",
+      "ref": "Luke 1:8-17",
+      "shared_core": [
+        "offer incense",
+        "do not fear, zechariah",
+        "name him john"
+      ],
+      "distinctive_details": {
+        "items": [
+          "great before the lord",
+          "spirit and power of elijah",
+          "prepare a people made ready"
+        ],
+        "min_present": 2
+      },
+      "explanation": "Luke 1:8-17 should preserve the temple setting and John's announced calling."
+    },
+    {
+      "id": "zechariah-muted",
+      "ref": "Luke 1:18-25",
+      "shared_core": [
+        "i am gabriel",
+        "unable to speak",
+        "take away my reproach"
+      ],
+      "distinctive_details": {
+        "items": [
+          "how can i be certain",
+          "vision in the temple",
+          "fulfilled at the appointed time"
+        ],
+        "min_present": 2
+      },
+      "explanation": "Luke 1:18-25 should preserve Gabriel's reply, Zechariah's muteness, and Elizabeth's conception."
+    },
+    {
+      "id": "marys-response",
+      "ref": "Luke 1:34-38",
+      "shared_core": [
+        "how can this be",
+        "holy spirit will come upon you",
+        "let it be to me according to your word"
+      ],
+      "distinctive_details": {
+        "items": [
+          "power of the most high will overshadow you",
+          "no word from god will be impossible",
+          "elizabeth your kinswoman"
+        ],
+        "min_present": 2
+      },
+      "explanation": "Luke 1:34-38 should preserve Mary's question and submission."
+    },
+    {
+      "id": "magnificat-and-elizabeth",
+      "ref": "Luke 1:39-56",
+      "shared_core": [
+        "blessed are you among women",
+        "my soul magnifies the lord",
+        "rejoices in god my savior"
+      ],
+      "distinctive_details": {
+        "items": [
+          "child leaped in her womb",
+          "mother of my lord",
+          "filled the hungry with good things"
+        ],
+        "min_present": 2
+      },
+      "explanation": "Luke 1:39-56 should preserve Elizabeth's blessing and Mary's song."
+    },
+    {
+      "id": "john-named",
+      "ref": "Luke 1:57-66",
+      "shared_core": [
+        "he shall be called john",
+        "his name is john",
+        "mouth was opened"
+      ],
+      "distinctive_details": {
+        "items": [
+          "fear came on all who lived around them",
+          "talked about throughout the hill country",
+          "eighth day"
+        ],
+        "min_present": 2
+      },
+      "explanation": "Luke 1:57-66 should preserve the naming of John and Zechariah's restored speech."
+    },
+    {
+      "id": "benedictus",
+      "ref": "Luke 1:67-80",
+      "shared_core": [
+        "blessed be the lord, the god of israel",
+        "horn of salvation",
+        "guide our feet into the way of peace"
+      ],
+      "distinctive_details": {
+        "items": [
+          "child will be called prophet of the most high",
+          "forgiveness of their sins",
+          "dawn from on high"
+        ],
+        "min_present": 2
+      },
+      "explanation": "Luke 1:67-80 should preserve Zechariah's prophecy over Israel and John."
+    },
+    {
+      "id": "jesus-born-bethlehem",
+      "ref": "Luke 2:1-7",
+      "shared_core": [
+        "caesar augustus",
+        "bethlehem",
+        "laid him in a manger"
+      ],
+      "distinctive_details": {
+        "items": [
+          "house and lineage of david",
+          "firstborn son",
+          "no place for them in the guest room"
+        ],
+        "min_present": 2
+      },
+      "explanation": "Luke 2:1-7 should preserve the Bethlehem birth and manger setting."
+    },
+    {
+      "id": "circumcision-and-presentation",
+      "ref": "Luke 2:21-24",
+      "shared_core": [
+        "named jesus",
+        "present him to the lord",
+        "law of moses"
+      ],
+      "explanation": "Luke 2:21-24 should preserve naming, circumcision, and presentation."
+    },
+    {
+      "id": "simeon-prophecy",
+      "ref": "Luke 2:25-35",
+      "shared_core": [
+        "simeon",
+        "eyes have seen your salvation",
+        "light for revelation to the nations"
+      ],
+      "distinctive_details": {
+        "items": [
+          "consolation of israel",
+          "falling and rising of many",
+          "sword will pass through your own soul"
+        ],
+        "min_present": 2
+      },
+      "explanation": "Luke 2:25-35 should preserve Simeon's blessing and warning."
+    },
+    {
+      "id": "anna-witness",
+      "ref": "Luke 2:36-38",
+      "shared_core": [
+        "anna",
+        "gave thanks to god",
+        "redemption of jerusalem"
+      ],
+      "distinctive_details": {
+        "items": [
+          "tribe of asher",
+          "fasting and prayer night and day"
+        ],
+        "min_present": 1
+      },
+      "explanation": "Luke 2:36-38 should preserve Anna's worship and witness."
+    },
+    {
+      "id": "magi-inquire",
+      "ref": "Matt 2:1-8",
+      "shared_core": [
+        "magi from the east",
+        "born king of the jews",
+        "bethlehem of judea"
+      ],
+      "distinctive_details": {
+        "items": [
+          "we saw his star",
+          "herod was troubled",
+          "chief priests and scribes"
+        ],
+        "min_present": 2
+      },
+      "explanation": "Matthew 2:1-8 should preserve the magi's inquiry and Herod's consultation."
+    },
+    {
+      "id": "magi-worship",
+      "ref": "Matt 2:9-12",
+      "shared_core": [
+        "star",
+        "fell down and worshiped him",
+        "gold, frankincense, and myrrh"
+      ],
+      "distinctive_details": {
+        "items": [
+          "entering the house",
+          "rejoiced exceedingly with great joy",
+          "warned in a dream"
+        ],
+        "min_present": 2
+      },
+      "explanation": "Matthew 2:9-12 should preserve the star, worship, and gifts."
+    },
+    {
+      "id": "flight-to-egypt",
+      "ref": "Matt 2:13-18",
+      "shared_core": [
+        "flee to egypt",
+        "search for the child to destroy him",
+        "killed all the boys"
+      ],
+      "distinctive_details": {
+        "items": [
+          "by night",
+          "two years old and under",
+          "according to the time he had learned from the magi"
+        ],
+        "min_present": 2
+      },
+      "explanation": "Matthew 2:13-18 should preserve the warning, flight, and slaughter."
+    },
+    {
+      "id": "return-to-nazareth",
+      "ref": "Matt 2:19-23",
+      "shared_core": [
+        "go to the land of israel",
+        "nazareth",
+        "favor of god was upon him"
+      ],
+      "distinctive_details": {
+        "items": [
+          "archelaus",
+          "warned in a dream",
+          "filled with wisdom"
+        ],
+        "min_present": 2
+      },
+      "explanation": "The return from Egypt should preserve the move to Nazareth and Luke's summary growth note."
+    },
+    {
+      "id": "jesus-grows",
+      "ref": "Luke 2:51-52",
+      "shared_core": [
+        "submission to them",
+        "treasured all these things in her heart",
+        "increased in wisdom and stature"
+      ],
+      "explanation": "Luke 2:51-52 should preserve Jesus' submission and growth."
+    },
+    {
+      "id": "johns-denunciation",
+      "ref": "Matt 3:4-10",
+      "shared_core": [
+        "camel's hair",
+        "brood of vipers",
+        "axe lies at the root of the trees"
+      ],
+      "distinctive_details": {
+        "items": [
+          "locusts and wild honey",
+          "bear fruit worthy of repentance",
+          "children for abraham from these stones"
+        ],
+        "min_present": 2
+      },
+      "explanation": "John's denunciation should preserve his appearance and urgent warning."
+    },
+    {
+      "id": "john-questioned",
+      "ref": "John 1:19-28",
+      "shared_core": [
+        "i am not the christ",
+        "i am not",
+        "make straight the way of the lord"
+      ],
+      "distinctive_details": {
+        "items": [
+          "priests and levites",
+          "the prophet",
+          "one already stands among you"
+        ],
+        "min_present": 2
+      },
+      "explanation": "John 1:19-28 should preserve the interrogation and John's self-denial."
+    },
+    {
+      "id": "john-spirit-witness",
+      "ref": "John 1:32-34",
+      "shared_core": [
+        "spirit descend from heaven like a dove",
+        "baptizes with the holy spirit",
+        "son of god"
+      ],
+      "explanation": "John 1:32-34 should preserve John's witness about the descending Spirit."
+    },
+    {
+      "id": "nathanael-confession",
+      "ref": "John 1:43-51",
+      "shared_core": [
+        "can anything good come out of nazareth",
+        "fig tree",
+        "you are the son of god"
+      ],
+      "distinctive_details": {
+        "items": [
+          "king of israel",
+          "true israelite in whom there is no deceit",
+          "angels of god ascending and descending"
+        ],
+        "min_present": 2
+      },
+      "explanation": "John 1:43-51 should preserve Nathanael's skepticism, confession, and promised sign."
+    },
+    {
+      "id": "temple-sign",
+      "ref": "John 2:18-22",
+      "shared_core": [
+        "destroy this temple",
+        "in three days i will raise it up",
+        "temple of his own body"
+      ],
+      "distinctive_details": {
+        "items": [
+          "forty-six years",
+          "after he rose from the dead"
+        ],
+        "min_present": 1
+      },
+      "explanation": "John 2:18-22 should preserve the temple sign and its interpretation."
+    },
+    {
+      "id": "jesus-knew-man",
+      "ref": "John 2:23-25",
+      "shared_core": [
+        "many believed in his name",
+        "did not entrust himself to them",
+        "knew what was in man"
+      ],
+      "explanation": "John 2:23-25 should preserve belief based on signs and Jesus' knowledge of man."
+    },
+    {
+      "id": "return-to-galilee-proclamation",
+      "ref": "John 4:1-3",
+      "shared_core": [
+        "left judea",
+        "returned to galilee",
+        "repent and believe the good news"
+      ],
+      "distinctive_details": {
+        "items": [
+          "spirit's power",
+          "time is fulfilled",
+          "kingdom of god has drawn near"
+        ],
+        "min_present": 2
+      },
+      "explanation": "This transition should preserve the move to Galilee and Jesus' opening proclamation."
+    },
+    {
+      "id": "sermon-righteousness-and-enemies",
+      "ref": "Matt 5:21-48",
+      "shared_core": [
+        "you have heard that it was said",
+        "but i tell you",
+        "love your enemies"
+      ],
+      "distinctive_details": {
+        "items": [
+          "be reconciled to your brother",
+          "whoever looks with desire",
+          "one cheek"
+        ],
+        "min_present": 2
+      },
+      "explanation": "Matthew 5:21-48 should preserve Jesus' intensification of the law and enemy love."
+    },
+    {
+      "id": "sermon-judgment-and-asking",
+      "ref": "Matt 7:1-29",
+      "shared_core": [
+        "do not judge",
+        "ask, and it will be given to you",
+        "built his house on the rock"
+      ],
+      "distinctive_details": {
+        "items": [
+          "beam in your own eye",
+          "whatever you would have men do to you, do the same to them",
+          "lord, lord"
+        ],
+        "min_present": 1
+      },
+      "explanation": "Matthew 7 should preserve discernment, asking, and the wise builder."
+    },
+    {
+      "id": "come-to-me-rest",
+      "ref": "Matt 11:25-30",
+      "shared_core": [
+        "i thank you, father",
+        "come to me, all who labor",
+        "you will find rest for your souls"
+      ],
+      "distinctive_details": {
+        "items": [
+          "hidden these things from the wise",
+          "gentle and lowly in heart",
+          "my yoke is easy"
+        ],
+        "min_present": 2
+      },
+      "explanation": "Matthew 11:25-30 should preserve thanksgiving, revelation, and rest."
+    },
+    {
+      "id": "weeds-treasure-net",
+      "ref": "Matt 13:24-30, 36-52",
+      "shared_core": [
+        "weeds among the wheat",
+        "treasure hidden in a field",
+        "merchant seeking fine pearls"
+      ],
+      "distinctive_details": {
+        "items": [
+          "net cast into the sea",
+          "close of the age",
+          "householder who brings out of his treasure"
+        ],
+        "min_present": 2
+      },
+      "explanation": "This parable cluster should preserve weeds, treasure, pearl, and net imagery."
+    },
+    {
+      "id": "neighbor-lost-and-found",
+      "ref": "Luke 10:25-37",
+      "shared_core": [
+        "who is my neighbor",
+        "samaritan",
+        "lost and has been found"
+      ],
+      "distinctive_details": {
+        "items": [
+          "jerusalem to jericho",
+          "hundred sheep",
+          "two sons"
+        ],
+        "min_present": 2
+      },
+      "explanation": "This combined mercy-and-recovery block should preserve the Good Samaritan and lost-and-found parables."
+    },
+    {
+      "id": "persistent-prayer-and-humility",
+      "ref": "Luke 11:5-13",
+      "shared_core": [
+        "friend, lend me three loaves",
+        "ask, and it will be given to you",
+        "god, be merciful to me, a sinner"
+      ],
+      "distinctive_details": {
+        "items": [
+          "judge who did not fear god",
+          "little children come to me",
+          "persistence"
+        ],
+        "min_present": 2
+      },
+      "explanation": "This section should preserve persistent prayer, humility, and Jesus' welcome of children."
+    },
+    {
+      "id": "covetousness-watchfulness-rich-man",
+      "ref": "Matt 6:19-24",
+      "shared_core": [
+        "guard yourselves from every kind of covetousness",
+        "no servant can serve two masters",
+        "where their treasure is"
+      ],
+      "distinctive_details": {
+        "items": [
+          "tear down my barns",
+          "be dressed and ready",
+          "lazarus was comforted"
+        ],
+        "min_present": 2
+      },
+      "explanation": "This composite teaching should preserve warnings about greed, readiness, and eternal reversal."
+    },
+    {
+      "id": "little-ones-forgiveness-rich-ruler",
+      "ref": "Matt 18:1-35",
+      "shared_core": [
+        "become like little children",
+        "if your brother sins",
+        "sell what you have"
+      ],
+      "distinctive_details": {
+        "items": [
+          "become last of all and servant of all",
+          "seventy times",
+          "what god has joined together"
+        ],
+        "min_present": 2
+      },
+      "explanation": "This section should preserve childlike humility, forgiveness, marriage teaching, and the rich ruler."
+    },
+    {
+      "id": "blind-man-and-shepherd",
+      "ref": "John 9:1-41",
+      "shared_core": [
+        "those who do not see may see",
+        "i am the good shepherd",
+        "my sheep hear my voice"
+      ],
+      "distinctive_details": {
+        "items": [
+          "i am the door for the sheep",
+          "no one will snatch them from my hand",
+          "born blind"
+        ],
+        "min_present": 2
+      },
+      "explanation": "John 9-10 should preserve the healing's meaning and the shepherd discourse."
+    },
+    {
+      "id": "coin-resurrection-commandment-widow",
+      "ref": "Matt 22:15-46",
+      "shared_core": [
+        "coin for the tax",
+        "god of the dead, but of the living",
+        "love the lord your god"
+      ],
+      "distinctive_details": {
+        "items": [
+          "love your neighbor as yourself",
+          "beware of the scribes",
+          "poor widow"
+        ],
+        "min_present": 2
+      },
+      "explanation": "The temple controversies should preserve tax, resurrection, great commandment, and widow material."
+    },
+    {
+      "id": "olivet-discourse-and-judgment",
+      "ref": "Matt 24:1-25:46",
+      "shared_core": [
+        "see that no one leads you astray",
+        "son of man coming with power and great glory",
+        "watch therefore"
+      ],
+      "distinctive_details": {
+        "items": [
+          "ten virgins",
+          "entrusted his possessions to his servants",
+          "shepherd separates sheep from goats"
+        ],
+        "min_present": 2
+      },
+      "explanation": "The end-times discourse should preserve warning, watchfulness, and final judgment imagery."
+    },
+    {
+      "id": "samaritan-village-rejection",
+      "ref": "Luke 9:51-56",
+      "shared_core": [
+        "set his face toward jerusalem",
+        "call down fire from heaven",
+        "went on to another village"
+      ],
+      "explanation": "Luke 9:51-56 should preserve Jesus' resolute journey and rebuke of retaliation."
+    },
+    {
+      "id": "seventy-two-sent",
+      "ref": "Luke 10:1-24",
+      "shared_core": [
+        "appointed seventy-two",
+        "peace to this house",
+        "names are written in heaven"
+      ],
+      "distinctive_details": {
+        "items": [
+          "sent them ahead by twos",
+          "demons submit to us",
+          "kingdom of god had drawn near"
+        ],
+        "min_present": 2
+      },
+      "explanation": "Luke 10:1-24 should preserve the mission and Jesus' correction of their joy."
+    },
+    {
+      "id": "tabernacles-brothers",
+      "ref": "John 7:1-13",
+      "shared_core": [
+        "feast of tabernacles",
+        "my time has not yet fully come",
+        "leading the people astray"
+      ],
+      "distinctive_details": {
+        "items": [
+          "brothers urged him",
+          "not openly, but quietly",
+          "much whispering"
+        ],
+        "min_present": 2
+      },
+      "explanation": "John 7:1-13 should preserve Jesus' brothers, timing, and the divided crowd."
+    },
+    {
+      "id": "ten-lepers",
+      "ref": "Luke 13:22",
+      "shared_core": [
+        "ten men with leprosy",
+        "your faith has made you well"
+      ],
+      "quotation_anchors": {
+        "items": [
+          {
+            "label": "priestly showing",
+            "any_of": [
+              "show yourselves to the priests",
+              "go and show themselves to the priests"
+            ]
+          }
+        ],
+        "min_present": 1
+      },
+      "distinctive_details": {
+        "items": [
+          "samaritan",
+          "where are the nine",
+          "journeying toward jerusalem"
+        ],
+        "min_present": 2
+      },
+      "explanation": "The ten lepers scene should preserve gratitude, healing, and the Samaritan's return."
+    },
+    {
+      "id": "feast-of-dedication",
+      "ref": "John 10:22-42",
+      "shared_core": [
+        "feast of dedication",
+        "speak plainly",
+        "many believed in him there"
+      ],
+      "distinctive_details": {
+        "items": [
+          "solomon's colonnade",
+          "escaped from their hands",
+          "john did no sign"
+        ],
+        "min_present": 2
+      },
+      "explanation": "John 10:22-42 should preserve the Dedication setting and witness beyond the Jordan."
+    },
+    {
+      "id": "lazarus-plot",
+      "ref": "John 11:45-57",
+      "shared_core": [
+        "believed in him",
+        "took counsel together to put him to death",
+        "ephraim"
+      ],
+      "explanation": "John 11:45-57 should preserve belief, opposition, and Jesus' withdrawal."
+    },
+    {
+      "id": "children-and-rich-ruler",
+      "ref": "Matt 19:13-30",
+      "shared_core": [
+        "little children",
+        "went away sorrowful"
+      ],
+      "quotation_anchors": {
+        "items": [
+          {
+            "label": "do not hinder children",
+            "any_of": [
+              "do not hinder them",
+              "told his disciples not to hinder them"
+            ]
+          }
+        ],
+        "min_present": 1
+      },
+      "distinctive_details": {
+        "items": [
+          "kingdom of god belongs to such as these",
+          "knelt before him",
+          "region beyond the jordan"
+        ],
+        "min_present": 2
+      },
+      "explanation": "This journey scene should preserve Jesus' welcome of children and the sorrowful ruler."
+    },
+    {
+      "id": "third-passion-prediction-and-service",
+      "ref": "Matt 20:17-28",
+      "shared_core": [
+        "going up to jerusalem",
+        "on the third day rise",
+        "one who serves"
+      ],
+      "distinctive_details": {
+        "items": [
+          "all things written by the prophets",
+          "sons of zebedee sought places of honor",
+          "did not grasp these things"
+        ],
+        "min_present": 2
+      },
+      "explanation": "The road-to-Jerusalem teaching should preserve the passion prediction and servant greatness."
+    },
+    {
+      "id": "jericho-healing",
+      "ref": "Matt 20:29-34",
+      "shared_core": [
+        "son of david, have mercy on us",
+        "receive your sight",
+        "followed him"
+      ],
+      "distinctive_details": {
+        "items": [
+          "cried out all the more",
+          "glorifying god",
+          "jericho"
+        ],
+        "min_present": 2
+      },
+      "explanation": "The Jericho healing should preserve the cry for mercy, sight, and following."
+    },
+    {
+      "id": "bethany-anointing",
+      "ref": "Matt 26:6-13",
+      "shared_core": [
+        "mary took costly perfume",
+        "wiped his feet with her hair",
+        "day of my burial"
+      ],
+      "distinctive_details": {
+        "items": [
+          "poor you always have with you",
+          "house was filled with the fragrance",
+          "chief priests took counsel that they might kill him as well"
+        ],
+        "min_present": 2
+      },
+      "explanation": "The Bethany anointing should preserve Mary's act, burial reference, and Judas' objection."
+    },
+    {
+      "id": "fig-tree-and-temple-rhythm",
+      "ref": "Matt 21:18-22",
+      "shared_core": [
+        "fig tree",
+        "withered from the roots",
+        "have faith in god"
+      ],
+      "distinctive_details": {
+        "items": [
+          "mount called olivet",
+          "by day he taught in the temple",
+          "found no fruit"
+        ],
+        "min_present": 2
+      },
+      "explanation": "The fig tree episode should preserve the sign, faith teaching, and temple rhythm."
+    },
+    {
+      "id": "betrayal-bargain",
+      "ref": "Matt 26:1-5, 14-16",
+      "shared_core": [
+        "seize jesus by stealth and kill him",
+        "satan entered judas iscariot",
+        "agreed to give him money"
+      ],
+      "distinctive_details": {
+        "items": [
+          "feared the people",
+          "apart from the crowd"
+        ],
+        "min_present": 1
+      },
+      "explanation": "The betrayal setup should preserve both the leaders' plot and Judas' agreement."
+    },
+    {
+      "id": "passover-prepared",
+      "ref": "Matt 26:17-20",
+      "shared_core": [
+        "passover lamb was being prepared",
+        "furnished upper room",
+        "greatly desired to eat this passover"
+      ],
+      "explanation": "The Passover preparation should preserve the room, the preparation, and Jesus' desire."
+    },
+    {
+      "id": "footwashing",
+      "ref": "John 13:1-17",
+      "shared_core": [
+        "laid aside his outer garment",
+        "if i do not wash you, you have no share with me",
+        "servant is not greater than his master"
+      ],
+      "distinctive_details": {
+        "items": [
+          "towel",
+          "come from god and was going to god",
+          "given you an example"
+        ],
+        "min_present": 2
+      },
+      "explanation": "John 13:1-17 should preserve the footwashing act and its meaning."
+    },
+    {
+      "id": "betrayer-revealed",
+      "ref": "Matt 26:21-25",
+      "shared_core": [
+        "one of you will betray me",
+        "giving him a morsel",
+        "it was night"
+      ],
+      "distinctive_details": {
+        "items": [
+          "what you are going to do, do quickly",
+          "each began to ask whether he was the one"
+        ],
+        "min_present": 1
+      },
+      "explanation": "The betrayer scene should preserve Jesus' warning, identification, and Judas' departure."
+    },
+    {
+      "id": "greatest-and-new-commandment",
+      "ref": "Luke 22:24-30",
+      "shared_core": [
+        "which of them should be considered greatest",
+        "leader as the one who serves",
+        "love one another"
+      ],
+      "distinctive_details": {
+        "items": [
+          "kings of the nations rule over them",
+          "by this all men will know that you are my disciples"
+        ],
+        "min_present": 1
+      },
+      "explanation": "This upper-room teaching should preserve servant leadership and the new commandment."
+    },
+    {
+      "id": "peter-will-deny",
+      "ref": "Matt 26:30-35",
+      "shared_core": [
+        "shepherd will be struck and the sheep scattered",
+        "before the rooster crows",
+        "deny me three times"
+      ],
+      "distinctive_details": {
+        "items": [
+          "even if all others stumble, i will not",
+          "die with him rather than deny him"
+        ],
+        "min_present": 1
+      },
+      "explanation": "The Mount of Olives prediction should preserve Jesus' warning and Peter's protest."
+    },
+    {
+      "id": "arrest-in-garden",
+      "ref": "Matt 26:47-56",
+      "shared_core": [
+        "betray the son of man with a kiss",
+        "i am he",
+        "struck the high priest's servant"
+      ],
+      "distinctive_details": {
+        "items": [
+          "drew back and fell to the ground",
+          "healed him",
+          "yielded himself into their hands"
+        ],
+        "min_present": 2
+      },
+      "explanation": "The arrest scene should preserve Judas' betrayal, Jesus' self-identification, and Peter's blow."
+    },
+    {
+      "id": "trial-before-high-priest",
+      "ref": "Matt 26:57-68",
+      "shared_core": [
+        "false witnesses",
+        "christ, the son of the blessed one",
+        "coming with the clouds of heaven"
+      ],
+      "distinctive_details": {
+        "items": [
+          "right hand of power",
+          "spoken blasphemy",
+          "covered his face"
+        ],
+        "min_present": 2
+      },
+      "explanation": "The high-priest trial should preserve the charge, Jesus' answer, and the accusation of blasphemy."
+    },
+    {
+      "id": "peters-denial",
+      "ref": "Matt 26:69-75",
+      "shared_core": [
+        "followed at a distance",
+        "rooster crowed",
+        "wept bitterly"
+      ],
+      "distinctive_details": {
+        "items": [
+          "lord turned and looked at peter",
+          "denied it before them all"
+        ],
+        "min_present": 1
+      },
+      "explanation": "Peter's denial should preserve the crowing rooster, the look, and Peter's tears."
+    },
+    {
+      "id": "judas-remorse",
+      "ref": "Matt 27:3-10",
+      "shared_core": [
+        "betraying innocent blood",
+        "threw the silver into the sanctuary",
+        "potter's field"
+      ],
+      "distinctive_details": {
+        "items": [
+          "filled with remorse",
+          "ended his life"
+        ],
+        "min_present": 1
+      },
+      "explanation": "Matthew 27:3-10 should preserve Judas' remorse and the silver's aftermath."
+    },
+    {
+      "id": "barabbas-and-mocking",
+      "ref": "Matt 27:15-31",
+      "shared_core": [
+        "barabbas",
+        "washed his hands",
+        "hail, king of the jews"
+      ],
+      "distinctive_details": {
+        "items": [
+          "crown of thorns",
+          "scarlet and purple",
+          "imprisoned for murder in the insurrection"
+        ],
+        "min_present": 2
+      },
+      "explanation": "The Barabbas exchange should preserve Pilate's choice and the soldiers' mockery."
+    },
+    {
+      "id": "behold-the-man-title",
+      "ref": "John 19:4-16, 19-22",
+      "shared_core": [
+        "behold the man",
+        "crucify him",
+        "jesus of nazareth, the king of the jews"
+      ],
+      "distinctive_details": {
+        "items": [
+          "made himself the son of god",
+          "opposed caesar",
+          "judgment seat"
+        ],
+        "min_present": 2
+      },
+      "explanation": "John 19:4-16, 19-22 should preserve Pilate's fear, surrender, and title."
+    },
+    {
+      "id": "way-to-golgotha",
+      "ref": "Matt 27:32-38",
+      "shared_core": [
+        "simon of cyrene",
+        "golgotha",
+        "one on either side"
+      ],
+      "distinctive_details": {
+        "items": [
+          "women who mourned for him",
+          "wine mingled with bitterness",
+          "for themselves and for their children"
+        ],
+        "min_present": 2
+      },
+      "explanation": "The road to the cross should preserve Simon, Golgotha, and Jesus' address to the women."
+    },
+    {
+      "id": "pierced-side",
+      "ref": "John 19:31-37",
+      "shared_core": [
+        "broke the legs",
+        "pierced his side with a spear",
+        "blood and water came out"
+      ],
+      "distinctive_details": {
+        "items": [
+          "day of preparation",
+          "beating their breasts",
+          "women remained at a distance"
+        ],
+        "min_present": 2
+      },
+      "explanation": "The post-death scene should preserve the spear, blood and water, and the mourning crowd."
+    },
+    {
+      "id": "burial-and-guard",
+      "ref": "Matt 27:57-66",
+      "shared_core": [
+        "joseph from arimathea",
+        "nicodemus",
+        "new tomb"
+      ],
+      "distinctive_details": {
+        "items": [
+          "wrapped it in linen with the spices",
+          "rested according to the commandment",
+          "seal and set a guard"
+        ],
+        "min_present": 2
+      },
+      "explanation": "The burial scene should preserve Joseph, Nicodemus, the women, and the guard."
+    },
+    {
+      "id": "women-at-empty-tomb",
+      "ref": "Matt 28:1-4",
+      "shared_core": [
+        "first day of the week",
+        "rolled away the stone",
+        "did not find the body"
+      ],
+      "distinctive_details": {
+        "items": [
+          "mary magdalene",
+          "spices they had prepared",
+          "great shaking"
+        ],
+        "min_present": 2
+      },
+      "explanation": "The empty tomb arrival should preserve the women, the moved stone, and the missing body."
+    },
+    {
+      "id": "peter-and-beloved-disciple-run",
+      "ref": "Luke 24:12",
+      "shared_core": [
+        "taken the lord out of the tomb",
+        "face cloth folded separately",
+        "he saw and believed"
+      ],
+      "distinctive_details": {
+        "items": [
+          "other disciple arrived first",
+          "did not understand from the scripture"
+        ],
+        "min_present": 1
+      },
+      "explanation": "The run to the tomb should preserve the linen details and the disciples' response."
+    },
+    {
+      "id": "women-meet-risen-jesus",
+      "ref": "Matt 28:9-10",
+      "shared_core": [
+        "took hold of his feet",
+        "worshiped him",
+        "go to galilee"
+      ],
+      "distinctive_details": {
+        "items": [
+          "do not be afraid",
+          "my brothers"
+        ],
+        "min_present": 1
+      },
+      "explanation": "Matthew 28:9-10 should preserve the women's encounter and Galilee instruction."
+    },
+    {
+      "id": "guard-report",
+      "ref": "Matt 28:11-15",
+      "shared_core": [
+        "large sum of money",
+        "disciples came by night and stole him away",
+        "story was spread widely"
+      ],
+      "explanation": "Matthew 28:11-15 should preserve the bribery and counter-story."
+    },
+    {
+      "id": "emmaus-road",
+      "ref": "Luke 24:13-27",
+      "shared_core": [
+        "emmaus",
+        "eyes were kept from recognizing him",
+        "beginning with moses and all the prophets"
+      ],
+      "distinctive_details": {
+        "items": [
+          "jesus of nazareth, mighty in deed and word",
+          "vision of angels",
+          "things concerning himself"
+        ],
+        "min_present": 2
+      },
+      "explanation": "The Emmaus road should preserve the hidden recognition and scriptural exposition."
+    },
+    {
+      "id": "emmaus-breaking-bread",
+      "ref": "Luke 24:28-35",
+      "shared_core": [
+        "stay with them",
+        "broke it",
+        "hearts had been burning within them"
+      ],
+      "distinctive_details": {
+        "items": [
+          "vanished from their sight",
+          "returned to jerusalem",
+          "eyes were opened"
+        ],
+        "min_present": 2
+      },
+      "explanation": "Emmaus at table should preserve the breaking of bread and burning hearts."
+    },
+    {
+      "id": "appearance-to-disciples",
+      "ref": "Luke 24:36-43",
+      "shared_core": [
+        "peace to you",
+        "spirit does not have flesh and bones",
+        "ate before them"
+      ],
+      "distinctive_details": {
+        "items": [
+          "doors were shut",
+          "showed them his hands, his feet, and his side",
+          "thought they were seeing a spirit"
+        ],
+        "min_present": 2
+      },
+      "explanation": "The first appearance to the gathered disciples should preserve peace, bodily reality, and eating."
+    },
+    {
+      "id": "commission-in-jerusalem",
+      "ref": "Luke 24:44-49",
+      "shared_core": [
+        "receive the holy spirit",
+        "opened their minds to understand the scriptures",
+        "repentance for the forgiveness of sins"
+      ],
+      "distinctive_details": {
+        "items": [
+          "as the father has sent me",
+          "beginning from jerusalem",
+          "rise from the dead on the third day"
+        ],
+        "min_present": 2
+      },
+      "explanation": "This Jerusalem commission should preserve the Spirit, Scripture, and forgiveness proclamation."
+    },
+    {
+      "id": "sea-of-tiberias-breakfast",
+      "ref": "John 21:1-14",
+      "shared_core": [
+        "sea of tiberias",
+        "cast the net on the right side of the boat",
+        "it is the lord"
+      ],
+      "distinctive_details": {
+        "items": [
+          "caught nothing",
+          "charcoal fire",
+          "gave them breakfast"
+        ],
+        "min_present": 2
+      },
+      "explanation": "John 21:1-14 should preserve the fishing sign and breakfast on shore."
+    },
+    {
+      "id": "peter-restored",
+      "ref": "John 21:15-23",
+      "shared_core": [
+        "do you love me",
+        "feed my lambs"
+      ],
+      "quotation_anchors": {
+        "items": [
+          {
+            "label": "follow me",
+            "any_of": [
+              "follow me",
+              "told him to follow him"
+            ]
+          }
+        ],
+        "min_present": 1
+      },
+      "distinctive_details": {
+        "items": [
+          "third time",
+          "peter was grieved",
+          "death by which he would glorify god"
+        ],
+        "min_present": 2
+      },
+      "explanation": "John 21:15-23 should preserve Peter's restoration, commission, and call to follow."
+    }
+  ]
+}
