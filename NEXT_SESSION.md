@@ -2,6 +2,11 @@
 
 ## Current State
 
+The manuscript title has now been updated to:
+
+- `One Lord, One Story`
+- subtitle: `A Gospel Harmony`
+
 The harmonized Gospel manuscript is now drafted through all major sections:
 
 - `sections/00_prologue.md`
@@ -44,6 +49,7 @@ In practice, this means the text should sound like a close retelling of the Gosp
 - Sections 5 through 7 were drafted in the same general style.
 - `references.md` was updated for all sections, including chronology notes, merge decisions, and open questions.
 - The manuscript now has no placeholder section files left.
+- The book title and subtitle were chosen and set in source metadata and front matter as `One Lord, One Story: A Gospel Harmony`.
 
 ## Main Open Questions
 
@@ -61,7 +67,7 @@ These are the main issues still worth reviewing in a later pass:
 2. Mark any places that still sound too summary-like, too modern, or too close to familiar translation wording.
 3. Review the open questions in `references.md` and decide which chronology and ending choices you want to keep.
 4. Do one full consistency pass across the whole manuscript after that review, rather than revising isolated lines one at a time.
-5. Only after the main text feels settled, return to front matter, metadata, EPUB/PDF/POD preparation, and edition handling.
+5. After the text is stable, do a publication-prep pass on front matter, metadata, exports, and POD/EPUB packaging.
 
 ## Suggested Review Focus
 
@@ -78,4 +84,4 @@ These are the sections where tone, compression, chronology, and wording choices 
 
 At the beginning of the next session, the best prompt is likely:
 
-`Read the whole manuscript from sections 0 to 7 and help me do a final consistency review before publication prep.`
+`Read the whole manuscript from sections 0 to 7 of One Lord, One Story and help me do a final consistency review before publication prep.`

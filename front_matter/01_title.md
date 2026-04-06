@@ -1,5 +1,5 @@
-# One Jesus, Out of Four
+# One Lord, One Story
 
-## A Single Narrative from Matthew, Mark, Luke, and John
+## A Gospel Harmony
 
 Prepared by Jonathan Gabriel

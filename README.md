@@ -1,4 +1,4 @@
-# One Jesus, Out of Four
+# One Lord, One Story
 
 This project develops a single, condensed Gospel narrative by harmonizing Matthew, Mark, Luke, and John into one continuous account.
 
@@ -117,3 +117,15 @@ The repo is scaffolded for single-source publishing:
 - `review` editions show paragraph-level source references for editorial checking
 - `reader` editions hide those references for cleaner PDF and EPUB reading
 - `pod_print` uses the same manuscript order with print styling and front/back matter
+
+## Review Notes Workflow
+
+For editorial reading, use `exports/review.html` or `exports/review.md` together with `review_notes.md`.
+
+Record notes under the matching section using the visible paragraph reference as the anchor, for example:
+
+```text
+- [John 6:22-71] Bread of Life paragraph still feels compressed near the hard-saying turn.
+- Priority: medium
+- Action: expand
+```
